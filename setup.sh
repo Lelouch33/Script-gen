@@ -29,4 +29,4 @@ echo 'export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$
 source ~/.bashrc
 
 # Клонирование репозитория
-git clone https://github.com/Lelouch33/rl-swarm.git
+git clone https://github.com/gensyn-ai/rl-swarm
